@@ -1,0 +1,58 @@
+[
+	{
+		"modelo": "2",
+		"anoFabricacao": 2,
+		"numPortas": 0,
+		"marca": "2",
+		"numPassageiros": 2,
+		"rodas": 2
+	},
+	{
+		"modelo": "1",
+		"anoFabricacao": 1,
+		"numPortas": 1,
+		"marca": "1"
+	},
+	{
+		"modelo": "1",
+		"anoFabricacao": 1,
+		"numPortas": 1,
+		"marca": "1"
+	},
+	{
+		"modelo": "2",
+		"anoFabricacao": 2,
+		"numPortas": 2,
+		"marca": "2"
+	},
+	{
+		"modelo": "2",
+		"anoFabricacao": 2,
+		"numPortas": 2,
+		"marca": "2"
+	},
+	{
+		"modelo": "3",
+		"anoFabricacao": 3,
+		"numPortas": 0,
+		"marca": "3",
+		"numPassageiros": 3,
+		"rodas": 2
+	},
+	{
+		"modelo": "3",
+		"anoFabricacao": 3,
+		"numPortas": 0,
+		"marca": "3",
+		"numPassageiros": 3,
+		"rodas": 2
+	},
+	{
+		"modelo": "3",
+		"anoFabricacao": 3,
+		"numPortas": 0,
+		"marca": "3",
+		"numPassageiros": 3,
+		"rodas": 2
+	}
+]
