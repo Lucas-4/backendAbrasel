@@ -13,6 +13,12 @@ git clone https://github.com/Lucas-4/backendAbrasel.git
 cd backendAbrasel
 ```
 
+* Instale as dependências
+
+```
+npm install
+```
+
 * Execute a aplicação
 
 ```
